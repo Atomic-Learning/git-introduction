@@ -8,7 +8,7 @@
         "git",
         "software-engineering"
     ],
-    "duration": 1,
+    "duration": 2,
     "prerequisites": [
         {
             "slug": "version-control-introduction",
