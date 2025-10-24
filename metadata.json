@@ -1,33 +1,24 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Git: Introduction",
+    "slug": "git-introduction",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "git",
+        "software engineering"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
+            "slug": "version-control-introduction",
+            "description": "An overview of version control concepts and benefits."
         },
         {
-            "slug": "",
-            "description": ""
+            "slug": "version-control-repositories",
+            "description": "Understanding repositories in version control systems."
         }
     ],
     "related": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ]
 }
