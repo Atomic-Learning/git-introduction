@@ -8,17 +8,17 @@
         "git",
         "software engineering"
     ],
-    "duration": 2,
+    "duration": 1,
     "prerequisites": [
         {
             "slug": "version-control-introduction",
             "description": "An overview of version control concepts and benefits."
-        },
-        {
-            "slug": "version-control-repositories",
-            "description": "Understanding repositories in version control systems."
         }
     ],
     "related": [
+        {
+            "slug": "open-source-software",
+            "title": "Find out what is meant by open source software."
+        }
     ]
 }
