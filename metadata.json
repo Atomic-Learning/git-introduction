@@ -19,6 +19,10 @@
         {
             "slug": "open-source-software",
             "description": "Find out what is meant by open source software."
+        },
+        {
+            "slug": "github-introduction",
+            "description": "GitHub is a common place to host Git repositories for publication, backup, and sharing."
         }
     ]
 }
