@@ -10,10 +10,10 @@
     ],
     "duration": 1,
     "prerequisites": [
-        "slug": "version-control-introduction"
+        "version-control-introduction"
     ],
     "related": [
-        "slug": "open-source-software-introduction",
-        "slug": "github-introduction",
+        "open-source-software-introduction",
+        "github-introduction",
     ]
 }
