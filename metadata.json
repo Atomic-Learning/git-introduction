@@ -10,10 +10,7 @@
     ],
     "duration": 1,
     "prerequisites": [
-        {
-            "slug": "version-control-introduction",
-            "description": "An overview of version control concepts and benefits."
-        }
+        "slug": "version-control-introduction"
     ],
     "related": [
         "slug": "open-source-software-introduction",
