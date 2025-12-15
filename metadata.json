@@ -1,6 +1,7 @@
 {
     "title": "Git: Introduction",
     "slug": "git-introduction",
+    "description": "An overview of the git version control system.",
     "authors": [
         "chris-cooling"
     ],
